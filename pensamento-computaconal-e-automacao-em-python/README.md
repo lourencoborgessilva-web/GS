@@ -31,7 +31,7 @@ mission-control-ai/
 └── mission_control.py
 ```
 
-## ▶ Como executar
+##  Como executar
 
 Pré-requisito: Python 3.x instalado.
 
