@@ -2,14 +2,15 @@
 
 Sistema inteligente de monitoramento de missão espacial desenvolvido em Python.
 
+##  Equipe
+
+Lourenco Borges da Silva - RM: 569515
+Davi Teodoro Novais - RM: 571022
+
 ##  Descrição
 
 O **Mission Control AI** simula o acompanhamento de uma missão espacial experimental por meio de ciclos de monitoramento. A cada ciclo, o sistema analisa 5 variáveis operacionais, calcula o nível de risco, emite alertas automáticos e gera um relatório final completo.
 
-##  Equipe
-
-- **Missão:** Marte
-- **Equipe:** Equipe Pioneira 
 
 ##  Funcionalidades
 
