@@ -5,6 +5,7 @@ Sistema inteligente de monitoramento de missão espacial desenvolvido em Python.
 ##  Equipe
 
 Lourenco Borges da Silva - RM: 569515
+
 Davi Teodoro Novais - RM: 571022
 
 ##  Descrição
