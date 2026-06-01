@@ -1,9 +1,9 @@
-# 🚀 Energy Mission Monitor
+# Energy Mission Monitor
 ### Monitoramento de Sistemas Energéticos — GS 2026.1 | FIAP
 
 ---
 
-## 👥 Equipe
+## Equipe
 
 **Missão:** Marte  
 **Equipe:** Equipe Pioneira
@@ -15,7 +15,7 @@
 
 ---
 
-## 📋 Descrição
+## Descrição
 
 O **Energy Mission Monitor** é um sistema de monitoramento de sistemas energéticos
 de uma missão espacial experimental desenvolvido em Python. O programa simula o
@@ -26,7 +26,7 @@ alertas e recomendações automáticas.
 
 ---
 
-## ▶️ Como executar
+## Como executar
 
 Pré-requisito: Python 3 instalado.
 
@@ -38,7 +38,7 @@ Nenhuma biblioteca externa é necessária além do `os`, que já vem com o Pytho
 
 ---
 
-## 🖥️ Funcionalidades
+## Funcionalidades
 
 | Opção | Descrição |
 |-------|-----------|
@@ -51,7 +51,7 @@ Nenhuma biblioteca externa é necessária além do `os`, que já vem com o Pytho
 
 ---
 
-## ⚡ Módulos Monitorados
+## Módulos Monitorados
 
 | Módulo | O que representa |
 |--------|-----------------|
@@ -63,7 +63,7 @@ Nenhuma biblioteca externa é necessária além do `os`, que já vem com o Pytho
 
 ---
 
-## 🚦 Regras de Alerta
+## Regras de Alerta
 
 ### Energia — Painel Solar, Bateria e Reator (%)
 | Condição | Classificação |
@@ -93,7 +93,7 @@ Nenhuma biblioteca externa é necessária além do `os`, que já vem com o Pytho
 
 ---
 
-## 📊 Conceitos de Energia Aplicados
+## Conceitos de Energia Aplicados
 
 **Potência estimada por módulo:**
 ```
@@ -117,7 +117,7 @@ Indica o quanto a nave está aproveitando sua capacidade energética total.
 
 ---
 
-## 🗂️ Estrutura do Código
+## Estrutura do Código
 
 ```
 energy_mission_monitor.py
@@ -158,7 +158,7 @@ energy_mission_monitor.py
 
 ---
 
-## 📈 Fluxograma
+## Fluxograma
 
 ```
 INICIO
