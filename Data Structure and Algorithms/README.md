@@ -5,8 +5,6 @@
 
 ##  Equipe
 
-**Missão:** Marte  
-**Equipe:** Equipe Pioneira
 
 | Nome | RM |
 |------|----|
