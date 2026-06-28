@@ -1,13 +1,5 @@
 # Global Solution 2026.1 — FIAP
 
-## Identificacao
-
-**Missao:** Marte  
-**Equipe:** Equipe Pioneira  
-
-| Nome |
-|------|
-| Lourenco Borges da Silva | 
 
 ---
 
